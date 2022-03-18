@@ -4,7 +4,8 @@
 https://go.dev/   
 
 # Commands used to execute the wordcount in powershell
- go version
- go get -u github.com/apache/beam/sdks/v2/go/pkg/beam
- go install github.com/apache/beam/sdks/v2/go/examples/wordcount
- wordcount --input sample.txt --output hemacounts
+<ol>
+ <li>go version</li>
+ <li>go get -u github.com/apache/beam/sdks/v2/go/pkg/beam</li>
+ <li>go install github.com/apache/beam/sdks/v2/go/examples/wordcount</li>
+ <li>wordcount --input sample.txt --output hemacounts</li></ol>
